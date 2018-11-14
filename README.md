@@ -1,0 +1,2 @@
+# GirlsFrontlineLogisticsManager
+简单的后勤管理软件，后勤归来时提示收后勤
